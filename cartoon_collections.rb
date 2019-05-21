@@ -23,5 +23,5 @@ def find_the_cheese(array)
   array.each do |text|
     text.include?(cheese_types)
   end
-  
+
 end
