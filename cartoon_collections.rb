@@ -22,7 +22,7 @@ def find_the_cheese(array)
 
   array.each do |name|
     if name == cheese_types.each {|e| e}
-      puts name
+      true
     end
   end
 
